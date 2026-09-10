@@ -1,5 +1,5 @@
 2.1.1 Запустите терминал. Проанализируйте строку приглашения
-<img width="1920" height="1080" alt="Снимок экрана (1)" src="https://github.com/user-attachments/assets/da4c9338-2bbf-4944-ae3f-65757ddf9998" />
+![src1](https://github.com/user-attachments/assets/da4c9338-2bbf-4944-ae3f-65757ddf9998)
 2.1.2 Выполните history. Выполнил команду History
 <img width="1920" height="1080" alt="Снимок экрана (1)" src="https://github.com/user-attachments/assets/ac5c1527-1c6e-496f-b88e-90d071a42a76" />
 2.1.3 Очистите экран (clear или Ctrl+L). Очистил экран с помощью комбинации клавиш Ctrl+L
